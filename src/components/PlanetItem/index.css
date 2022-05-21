@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.name {
+  font-size: 26px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  color: #f8fafc;
+}
+.heading {
+  font-size: 30px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  color: #05acff;
+}
+.description {
+  width: 700px;
+  text-align: center;
+  font-size: 18px;
+  font-family: 'Roboto';
+  color: #f1f5f9;
+}
+.planet-box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.planet {
+  height: 300px;
+  width: 400px;
+}
